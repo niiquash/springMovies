@@ -1,0 +1,9 @@
+dev\ammon\movies\ReviewController.class
+dev\ammon\movies\MovieRepository.class
+dev\ammon\movies\Review.class
+dev\ammon\movies\ReviewRepository.class
+dev\ammon\movies\Movie.class
+dev\ammon\movies\ReviewService.class
+dev\ammon\movies\MovieService.class
+dev\ammon\movies\MovieController.class
+dev\ammon\movies\MoviesApplication.class
